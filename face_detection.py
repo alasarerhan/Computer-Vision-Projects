@@ -2,7 +2,7 @@
 import  cv2
 import mediapipe as mp
 
-cap = cv2.VideoCapture("3_Goruntu isleme Projeleri/5_face_detection/video3.mp4")
+cap = cv2.VideoCapture("your_file_path")
 
 mpFaceDetection = mp.solutions.face_detection
 faceDetection = mpFaceDetection.FaceDetection(0.2)
