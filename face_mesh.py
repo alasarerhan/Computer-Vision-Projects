@@ -11,7 +11,7 @@ import cv2
 import mediapipe as mp 
 import time
 
-cap = cv2.VideoCapture("3_Goruntu isleme Projeleri/6_face_mesh/video3.mp4")
+cap = cv2.VideoCapture("your_file_path")
 
 mpFaceMesh = mp.solutions.face_mesh
 faceMesh = mpFaceMesh.FaceMesh(max_num_faces=2)
