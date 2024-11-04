@@ -1,6 +1,3 @@
-Here’s a general README template for your computer vision projects, including Road Line Detection, Face Detection, Face Mesh, Finger Counting, and Hand Tracking:
-
----
 
 # Computer Vision Projects
 
